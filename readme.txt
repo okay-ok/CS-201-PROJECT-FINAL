@@ -4,11 +4,11 @@ AMAN-2021MCB1230
 
 
 
-TO RUN, OPEN FOLDER IN VSCODE AND RUN ìFINAL_CODE.cppî
+TO RUN, OPEN FOLDER IN VSCODE AND RUN ‚ÄúFINAL_CODE.cpp‚Äù
 Expected output for default input.txt-181300
 
 Code takes bidirectional graph as input 
-Input file ìinput.txtî
+Input file ‚Äúinput.txt‚Äù
 Line 1 : V(VERTICES) E(EDGES) 
 NEXT E LINES :
 SOURCE SINK WEIGHT/capacity
@@ -16,7 +16,7 @@ SOURCE SINK WEIGHT/capacity
 
 
 Maximum flow is calculated from vertex 1 to vertex #V
-Using dinicís algorithm
+Using dinic‚Äôs algorithm
 
 
 To check your own graph modify input.txt as:
